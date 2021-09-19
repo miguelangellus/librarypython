@@ -129,4 +129,9 @@ dmypy.json
 .pyre/
 
 # Pycharm config file
-.idea
+.idea/
+.classpath
+.project
+.settings/
+bin/
+*.sqlite3
