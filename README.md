@@ -7,3 +7,5 @@ Módulo para exemplificar construção de projetos Python no curso Pytools
 1. Mais sobre Git e Github
 2. Virtualenv / Venv
 3. Pip
+
+testing update
